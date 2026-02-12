@@ -3,7 +3,7 @@
   "tenant": "api",
   "daysOfData": 7,
   "comments": {
-    "tenant_options": ["api", "api-st-finacct"],
+    "tenant_options": ["api", "api-st-<TENANTID>"],
     "daysOfData_description": "Number of days to go back in history for active reports (default: 7)",
     "description": "Replace YOUR_MOBB_API_TOKEN_HERE with your actual Mobb API token"
   }
